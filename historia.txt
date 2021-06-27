@@ -1,3 +1,5 @@
-prueba de escritur en git
+Prueba de Escritura en git.
 
 recordar que git es diferentes a github
+
+nuevo elemento y se modifica.
