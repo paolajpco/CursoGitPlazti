@@ -1,0 +1,3 @@
+prueba de escritur en git
+
+recordar que git es diferentes a github
