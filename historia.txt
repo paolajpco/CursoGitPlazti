@@ -1,5 +1,5 @@
 Prueba de Escritura en git.
 
-recordar que git es diferentes a github
+adicional a git y github se crea proyecto html.
 
 vamos a crear un proyecto html.
